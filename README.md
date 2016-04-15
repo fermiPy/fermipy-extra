@@ -1,1 +1,1 @@
-# fermipy-extras
+# fermipy-extra
